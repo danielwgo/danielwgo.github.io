@@ -1,0 +1,145 @@
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uid" version="3.0" xml:lang="en">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dc:identifier id="uid">9781401971373</dc:identifier>
+<dc:title id="title">The Let Them Theory</dc:title>
+<meta property="title-type" refines="#title">main</meta>
+<dc:language>en</dc:language>
+<dc:creator id="creator01">Mel Robbins</dc:creator>
+<meta property="file-as" refines="#creator01">Mel Robbins</meta>
+<meta property="role" refines="#creator01" scheme="marc:relators">aut</meta>
+
+
+<dc:rights>Copyright © 2024 by Mel Robbins</dc:rights>
+<dc:date>2024-11-12</dc:date>
+<dc:publisher>Hay House</dc:publisher>
+<dc:description>&lt;b&gt;&lt;i&gt;New York Times&lt;/i&gt; Bestselling Author. Millions of books sold worldwide!&lt;br&gt;&lt;i&gt;A Life-Changing Tool Millions of People Can&amp;rsquo;t Stop Talking About&lt;/i&gt;&lt;/b&gt;&lt;br&gt;What if the key to happiness, success, and love was as simple as two words?&lt;br&gt;If you've ever felt stuck, overwhelmed, or frustrated with where you are, the problem isn't you. The problem is the power you give to other people. Two simple words&amp;mdash;&lt;i&gt;Let Them&lt;/i&gt;&amp;mdash;will set you free. Free from the opinions, drama, and judgments of others. Free from the exhausting cycle of trying to manage everything and everyone around you. &lt;i&gt;The Let Them Theory&lt;/i&gt; puts the power to create a life you love back in your hands&amp;mdash;and this book will show you exactly how to do it.&lt;br&gt;In her latest groundbreaking book, &lt;i&gt;The Let Them Theory,&lt;/i&gt; Mel Robbins&amp;mdash;&lt;i&gt;New York Times&lt;/i&gt; Bestselling Author and one of the world's most respected experts on motivation, confidence, and mindset&amp;mdash;teaches you how to stop wasting...</dc:description>
+<meta property="dcterms:modified">2024-11-12T02:35:40Z</meta>
+<meta content="img-cover" name="cover"/>
+<meta content="Innodata" name="generator"/>
+</metadata>
+<manifest>
+<item href="toc.xhtml" id="nav" media-type="application/xhtml+xml" properties="nav"/> 
+<item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+<item href="styles/custom.css" id="id00491" media-type="text/css"/> 
+
+<item href="cover.xhtml" id="cover" media-type="application/xhtml+xml"/>
+<item href="halftitlepage.xhtml" id="halftitlepage" media-type="application/xhtml+xml"/> 
+<item href="also_by_mel_robbins.xhtml" id="also_by_mel_robbins" media-type="application/xhtml+xml"/> 
+<item href="titlepage.xhtml" id="title1" media-type="application/xhtml+xml"/> 
+<item href="copyright-page.xhtml" id="copyright-page" media-type="application/xhtml+xml"/> 
+<item href="dedication.xhtml" id="dedication" media-type="application/xhtml+xml"/>
+<item href="content-toc.xhtml" id="content-toc" media-type="application/xhtml+xml"/>
+<item href="introduction.xhtml" id="introduction" media-type="application/xhtml+xml"/> 
+<item href="part01.xhtml" id="part01" media-type="application/xhtml+xml"/> 
+<item href="chapter01.xhtml" id="chapter01" media-type="application/xhtml+xml"/> 
+<item href="chapter02.xhtml" id="chapter02" media-type="application/xhtml+xml"/> 
+<item href="part02.xhtml" id="part02" media-type="application/xhtml+xml"/> 
+<item href="part03.xhtml" id="part03" media-type="application/xhtml+xml"/> 
+<item href="chapter03.xhtml" id="chapter03" media-type="application/xhtml+xml"/> 
+<item href="chapter04.xhtml" id="chapter04" media-type="application/xhtml+xml"/> 
+<item href="part04.xhtml" id="part04" media-type="application/xhtml+xml"/> 
+<item href="chapter05.xhtml" id="chapter05" media-type="application/xhtml+xml"/>
+<item href="chapter06.xhtml" id="chapter06" media-type="application/xhtml+xml"/>
+<item href="part05.xhtml" id="part05" media-type="application/xhtml+xml"/> 
+<item href="chapter07.xhtml" id="chapter07" media-type="application/xhtml+xml"/>
+<item href="chapter08.xhtml" id="chapter08" media-type="application/xhtml+xml"/>
+<item href="part06.xhtml" id="part06" media-type="application/xhtml+xml"/> 
+<item href="chapter09.xhtml" id="chapter09" media-type="application/xhtml+xml"/>
+<item href="chapter10.xhtml" id="chapter10" media-type="application/xhtml+xml"/>
+<item href="part07.xhtml" id="part07" media-type="application/xhtml+xml"/> 
+<item href="part08.xhtml" id="part08" media-type="application/xhtml+xml"/> 
+<item href="chapter11.xhtml" id="chapter11" media-type="application/xhtml+xml"/>
+<item href="chapter12.xhtml" id="chapter12" media-type="application/xhtml+xml"/>
+<item href="chapter13.xhtml" id="chapter13" media-type="application/xhtml+xml"/> 
+<item href="part09.xhtml" id="part09" media-type="application/xhtml+xml"/> 
+<item href="chapter14.xhtml" id="chapter14" media-type="application/xhtml+xml"/> 
+<item href="chapter15.xhtml" id="chapter15" media-type="application/xhtml+xml"/> 
+<item href="part10.xhtml" id="part10" media-type="application/xhtml+xml"/> 
+<item href="chapter16.xhtml" id="chapter16" media-type="application/xhtml+xml"/> 
+<item href="chapter17.xhtml" id="chapter17" media-type="application/xhtml+xml"/>
+<item href="part11.xhtml" id="part11" media-type="application/xhtml+xml"/> 
+<item href="chapter18.xhtml" id="chapter18" media-type="application/xhtml+xml"/>
+<item href="chapter19.xhtml" id="chapter19" media-type="application/xhtml+xml"/>
+<item href="chapter20.xhtml" id="chapter20" media-type="application/xhtml+xml"/>
+<item href="conclusion.xhtml" id="conclusion" media-type="application/xhtml+xml"/>
+<item href="appendix.xhtml" id="appendix" media-type="application/xhtml+xml"/>
+<item href="how_to_apply_let_them_to_teams.xhtml" id="how_to_apply_let_them_to_teams" media-type="application/xhtml+xml"/>
+<item href="let_me_acknowledge_you.xhtml" id="let_me_acknowledge_you" media-type="application/xhtml+xml"/>
+<item href="bibliography.xhtml" id="bibliography" media-type="application/xhtml+xml"/> 
+<item href="about_mel.xhtml" id="about_mel" media-type="application/xhtml+xml"/> 
+<item href="how_to_stay_in_touch_with_me.xhtml" id="how_to_stay_in_touch_with_me" media-type="application/xhtml+xml"/> 
+<item href="we_hope_you_enjoyed_this_hay_house_book.xhtml" id="we_hope_you_enjoyed_this_hay_house_book" media-type="application/xhtml+xml"/> 
+
+
+<item href="images/cover.jpg" id="img-cover" media-type="image/jpeg" properties="cover-image"/>
+<item href="images/ht.jpg" id="img_1" media-type="image/jpeg"/>
+<item href="images/p224.jpg" id="img_2" media-type="image/jpeg"/>
+<item href="images/p284.jpg" id="img_3" media-type="image/jpeg"/>
+<item href="images/p336.jpg" id="img_4" media-type="image/jpeg"/>
+<item href="images/p37.jpg" id="img_5" media-type="image/jpeg"/>
+<item href="images/p38.jpg" id="img_6" media-type="image/jpeg"/>
+<item href="images/p39.jpg" id="img_7" media-type="image/jpeg"/>
+<item href="images/p52-1.jpg" id="img_8" media-type="image/jpeg"/>
+<item href="images/p52.jpg" id="img_9" media-type="image/jpeg"/>
+<item href="images/p55.jpg" id="img_10" media-type="image/jpeg"/>
+<item href="images/title.jpg" id="img_11" media-type="image/jpeg"/>
+</manifest>
+
+<spine toc="ncx">
+<itemref idref="cover"/>
+<itemref idref="halftitlepage"/>
+<itemref idref="also_by_mel_robbins"/>
+<itemref idref="title1"/>
+<itemref idref="copyright-page"/>
+<itemref idref="dedication"/>
+<itemref idref="content-toc"/>
+<itemref idref="introduction"/>
+<itemref idref="part01"/>
+<itemref idref="chapter01"/>
+<itemref idref="chapter02"/>
+<itemref idref="part02"/>
+<itemref idref="part03"/>
+<itemref idref="chapter03"/>
+<itemref idref="chapter04"/>
+<itemref idref="part04"/>
+<itemref idref="chapter05"/>
+<itemref idref="chapter06"/>
+<itemref idref="part05"/>
+<itemref idref="chapter07"/>
+<itemref idref="chapter08"/>
+<itemref idref="part06"/>
+<itemref idref="chapter09"/>
+<itemref idref="chapter10"/>
+<itemref idref="part07"/>
+<itemref idref="part08"/>
+<itemref idref="chapter11"/>
+<itemref idref="chapter12"/>
+<itemref idref="chapter13"/>
+<itemref idref="part09"/>
+<itemref idref="chapter14"/>
+<itemref idref="chapter15"/>
+<itemref idref="part10"/>
+<itemref idref="chapter16"/>
+<itemref idref="chapter17"/>
+<itemref idref="part11"/>
+<itemref idref="chapter18"/>
+<itemref idref="chapter19"/>
+<itemref idref="chapter20"/>
+<itemref idref="conclusion"/>
+<itemref idref="appendix"/>
+<itemref idref="how_to_apply_let_them_to_teams"/>
+<itemref idref="let_me_acknowledge_you"/>
+<itemref idref="bibliography"/>
+<itemref idref="about_mel"/>
+<itemref idref="how_to_stay_in_touch_with_me"/>
+<itemref idref="we_hope_you_enjoyed_this_hay_house_book"/>
+</spine>
+<guide>
+<reference href="cover.xhtml" title="Cover Page" type="cover"/>
+<reference href="titlepage.xhtml" title="Title Page" type="title"/>
+<reference href="copyright-page.xhtml" title="Copyright Page" type="copyright-page"/>
+<reference href="content-toc.xhtml" title="Table of Contents" type="toc"/>
+<reference href="introduction.xhtml" title="Start" type="text"/>
+<reference href="conclusion.xhtml" title="Conclusion" type="backmatter"/>
+</guide>
+</package>

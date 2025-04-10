@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+<head>
+<meta name="dtb:uid" content="9781401971373"/>
+<meta name="dtb:depth" content="1"/>
+<meta name="dtb:totalPageCount" content="0"/>
+<meta name="dtb:maxPageNumber" content="0"/>
+</head>
+<docTitle>
+<text>The Let Them Theory: A Life-Changing Tool That Millions of People Can&#8217;t Stop Talking About</text>
+</docTitle>
+<navMap>
+
+<navPoint id="ncx-1" playOrder="1">
+<navLabel>
+<text>Cover Page</text>
+</navLabel>
+<content src="cover.xhtml"/>
+</navPoint>
+<navPoint id="ncx-2" playOrder="2">
+<navLabel>
+<text>Title Page</text>
+</navLabel>
+<content src="titlepage.xhtml"/>
+</navPoint>
+<navPoint id="ncx-3" playOrder="3">
+<navLabel>
+<text>Copyright Page</text>
+</navLabel>
+<content src="copyright-page.xhtml"/>
+</navPoint>
+
+<navPoint id="ncx-4" playOrder="4">
+<navLabel>
+<text>Dedication</text>
+</navLabel>
+<content src="dedication.xhtml"/>
+</navPoint>
+
+<navPoint id="ncx-5" playOrder="5">
+<navLabel>
+<text>Table of Contents</text>
+</navLabel>
+<content src="content-toc.xhtml"/>
+</navPoint>
+
+<navPoint id="ncx-6" playOrder="6">
+<navLabel>
+<text>Introduction: My Story</text>
+</navLabel>
+<content src="introduction.xhtml#pz7-2_1"/>
+</navPoint>
+
+<navPoint id="ncx-7" playOrder="7">
+<navLabel>
+<text>The Let Them Theory</text>
+</navLabel>
+<content src="part01.xhtml#pz28-9"/>
+
+
+<navPoint id="ncx-8" playOrder="8">
+<navLabel>
+<text>1 Stop Wasting Your Life on Things You Can&#8217;t Control</text>
+</navLabel>
+<content src="chapter01.xhtml#pz7-5_1"/>
+</navPoint>
+
+<navPoint id="ncx-9" playOrder="9">
+<navLabel>
+<text>2 Getting Started: Let Them + Let Me</text>
+</navLabel>
+<content src="chapter02.xhtml#pz7-6_1"/>
+</navPoint>
+</navPoint>
+
+<navPoint id="ncx-10" playOrder="10">
+<navLabel>
+<text>You and the Let Them Theory</text>
+</navLabel>
+<content src="part02.xhtml#cpart2"/>
+
+
+<navPoint id="ncx-11" playOrder="11">
+<navLabel>
+<text>Managing Stress</text>
+</navLabel>
+<content src="part03.xhtml#cpart3"/>
+</navPoint>
+
+<navPoint id="ncx-12" playOrder="12">
+<navLabel>
+<text>3 Shocker: Life Is Stressful</text>
+</navLabel>
+<content src="chapter03.xhtml#pz7-11_1"/>
+</navPoint>
+
+<navPoint id="ncx-13" playOrder="13">
+<navLabel>
+<text>4 Let Them Stress You Out</text>
+</navLabel>
+<content src="chapter04.xhtml#pz7-12_1"/>
+</navPoint>
+
+<navPoint id="ncx-14" playOrder="14">
+<navLabel>
+<text>Fearing Other People&#8217;s Opinions</text>
+</navLabel>
+<content src="part04.xhtml#cpart4"/>
+</navPoint>
+
+<navPoint id="ncx-15" playOrder="15">
+<navLabel>
+<text>5 Let Them Think Bad Thoughts about You</text>
+</navLabel>
+<content src="chapter05.xhtml#pz7-14_1"/>
+</navPoint>
+
+<navPoint id="ncx-16" playOrder="16">
+<navLabel>
+<text>6 How to Love Difficult People</text>
+</navLabel>
+<content src="chapter06.xhtml#pz7-15_1"/>
+</navPoint>
+
+
+<navPoint id="ncx-17" playOrder="17">
+<navLabel>
+<text>Dealing with Someone Else&#8217;s Emotional Reactions</text>
+</navLabel>
+<content src="part05.xhtml#cpart5"/>
+</navPoint>
+
+<navPoint id="ncx-18" playOrder="18">
+<navLabel>
+<text>7 When Grown-Ups Throw Tantrums</text>
+</navLabel>
+<content src="chapter07.xhtml#pz8-2_1"/>
+</navPoint>
+
+<navPoint id="ncx-19" playOrder="19">
+<navLabel>
+<text>8 The Right Decision Often Feels Wrong</text>
+</navLabel>
+<content src="chapter08.xhtml#pz8-3_1" />
+</navPoint>
+
+<navPoint id="ncx-20" playOrder="20">
+<navLabel>
+<text>Overcoming Chronic Comparison</text>
+</navLabel>
+<content src="part06.xhtml#cpart6" />
+</navPoint>
+
+<navPoint id="ncx-21" playOrder="21">
+<navLabel>
+<text>9 Yes, Life Isn&#8217;t Fair</text>
+</navLabel>
+<content src="chapter09.xhtml#pz8-5_1" />
+</navPoint>
+<navPoint id="ncx-22" playOrder="22">
+<navLabel>
+<text>10 How to Make Comparison Your Teacher</text>
+</navLabel>
+<content src="chapter10.xhtml#pz8-6_1" />
+</navPoint>
+</navPoint>
+<navPoint id="ncx-23" playOrder="23">
+<navLabel>
+<text>Your Relationships and the Let Them Theory</text>
+</navLabel>
+<content src="part07.xhtml#cpart7" />
+
+
+<navPoint id="ncx-24" playOrder="24">
+<navLabel>
+<text>Mastering Adult Friendship</text>
+</navLabel>
+<content src="part08.xhtml#cpart8" />
+</navPoint>
+<navPoint id="ncx-25" playOrder="25">
+<navLabel>
+<text>11 The Truth No One Told You about Adult Friendship</text>
+</navLabel>
+<content src="chapter11.xhtml#pz8-13_1" />
+</navPoint>
+
+<navPoint id="ncx-26" playOrder="26">
+<navLabel>
+<text>12 Why Some Friendships Naturally Fade</text>
+</navLabel>
+<content src="chapter12.xhtml#pz8-14_1" />
+</navPoint>
+<navPoint id="ncx-27" playOrder="27">
+<navLabel>
+<text>13 How to Create the Best Friendships of Your Life</text>
+</navLabel>
+<content src="chapter13.xhtml#pz8-15_1" />
+</navPoint>
+<navPoint id="ncx-28" playOrder="28">
+<navLabel>
+<text>Motivating Other People to Change</text>
+</navLabel>
+<content src="part09.xhtml#cpart9" />
+</navPoint>
+<navPoint id="ncx-29" playOrder="29">
+<navLabel>
+<text>14 People Only Change When They Feel Like It</text>
+</navLabel>
+<content src="chapter14.xhtml#pz8-17_1" />
+</navPoint>
+<navPoint id="ncx-30" playOrder="30">
+<navLabel>
+<text>15 Unlock the Power of Your Influence</text>
+</navLabel>
+<content src="chapter15.xhtml#pz8-18_1" />
+</navPoint>
+<navPoint id="ncx-31" playOrder="31">
+<navLabel>
+<text>Helping Someone Who Is Struggling</text>
+</navLabel>
+<content src="part10.xhtml#cpart10" />
+</navPoint>
+<navPoint id="ncx-32" playOrder="32">
+<navLabel>
+<text>16 The More You Rescue, The More They Sink</text>
+</navLabel>
+<content src="chapter16.xhtml#pz8-20_1" />
+</navPoint>
+<navPoint id="ncx-33" playOrder="33">
+<navLabel>
+<text>17 How to Provide Support the Right Way</text>
+</navLabel>
+<content src="chapter17.xhtml#pz8-21_1" />
+</navPoint>
+<navPoint id="ncx-34" playOrder="34">
+<navLabel>
+<text>Choosing the Love You Deserve</text>
+</navLabel>
+<content src="part11.xhtml#cpart11" />
+</navPoint>
+<navPoint id="ncx-35" playOrder="35">
+<navLabel>
+<text>18 Let Them Show You Who They Are</text>
+</navLabel>
+<content src="chapter18.xhtml#pz9-2_1" />
+</navPoint>
+<navPoint id="ncx-36" playOrder="36">
+<navLabel>
+<text>19 How to Take Your Relationship to the Next Level</text>
+</navLabel>
+<content src="chapter19.xhtml#pz9-3_1" />
+</navPoint>
+<navPoint id="ncx-37" playOrder="37">
+<navLabel>
+<text>20 How Every Ending Is a Beautiful Beginning</text>
+</navLabel>
+<content src="chapter20.xhtml#pz9-4_1" />
+</navPoint>
+</navPoint>
+<navPoint id="ncx-38" playOrder="38">
+<navLabel>
+<text>Conclusion: Your Let Me Era Is Here</text>
+</navLabel>
+<content src="conclusion.xhtml#pz9-8_1" />
+</navPoint>
+
+<navPoint id="ncx-39" playOrder="39">
+<navLabel>
+<text>Appendix How to Apply Let Them to Parenting</text>
+</navLabel>
+<content src="appendix.xhtml#pz9-10_1" />
+
+<navPoint id="ncx-40" playOrder="40">
+<navLabel>
+<text>How to Apply Let Them to Teams</text>
+</navLabel>
+<content src="how_to_apply_let_them_to_teams.xhtml#pz9-12_1" />
+</navPoint>
+<navPoint id="ncx-41" playOrder="41">
+<navLabel>
+<text>Let Me Acknowledge You</text>
+</navLabel>
+<content src="let_me_acknowledge_you.xhtml#pz9-13_1" />
+</navPoint>
+<navPoint id="ncx-42" playOrder="42">
+<navLabel>
+<text>Bibliography</text>
+</navLabel>
+<content src="bibliography.xhtml#pz9-14_1" />
+</navPoint>
+<navPoint id="ncx-43" playOrder="43">
+<navLabel>
+<text>About Mel</text>
+</navLabel>
+<content src="about_mel.xhtml#pz9-15_1" />
+</navPoint>
+<navPoint id="ncx-44" playOrder="44">
+<navLabel>
+<text>How to Stay in Touch with Me</text>
+</navLabel>
+<content src="how_to_stay_in_touch_with_me.xhtml#pz9-16_1" />
+</navPoint>
+</navPoint>
+</navMap>
+</ncx>
